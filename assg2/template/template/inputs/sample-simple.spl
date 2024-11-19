@@ -1,0 +1,17 @@
+var c = x < y;
+var a = "foerste";
+a = "anden";
+
+var global = 100;
+var i = 0;
+i = i + 1;
+i = 1 + i;
+
+
+var b = 98;
+var a = 13;
+b = b + a;
+b = b + a - 1;
+a = 1 + b + 3 ;
+b = a + 1 + 2 + i;
+

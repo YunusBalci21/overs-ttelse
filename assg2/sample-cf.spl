@@ -1,0 +1,24 @@
+var i = 123; // A number
+var d = 12.3; // Another number
+var s = "123 "; // This is a string , not a number
+
+i + d; // 135.3
+1 == 2; // false
+
+ var min = 0;
+var max = 10;
+var temp = min + max;
+var average = temp / 2;
+
+var x = 0;
+if (i == s) {
+	x = 1;
+} else {
+	x = 2;
+}
+
+var a = 1;
+while (a < 10) {
+	x = x *5;
+	a = a + 1;
+}
